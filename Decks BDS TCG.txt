@@ -1,0 +1,18 @@
+Quant	Nome								Tipo		Coleção		Preço		Deck				Side
+4x		Dr. Gero, Evil's Inventor			Battle		BT3			$0.44		Android 17&18
+4x		Destined Deed Krillin				Battle		BT2			$0.24		Android 17&18
+4x		Stouthearted Android 16				Battle		BT3			$0.72		Android 17&18
+4x		Chilling Terror Android 17			Battle		P			$53.80		Android 17&18
+4x		Dreadful Duo, Android 17			Battle		BT3			$0.44		Android 17&18
+4x		Dreadful Duo, Android 18			Battle		BT3			$0.44		Android 17&18
+4x		Energy Guard Android 17				Battle		BT1			$17.92		Android 17&18
+4x		Infinite Energy Android 18			Battle		BT1			$15.96		Android 17&18
+4x		Twin Brother Android 17				Battle		BT2			$0.32		Android 17&18
+4x		Twin Sister Android 18				Battle		BT2			$0.32		Android 17&18
+4x		Expanding Energy Android 17			Battle		BT2			$0.32		Android 17&18
+4x		Exterminating Energy Android 18		Battle		BT2			$0.36		Android 17&18
+2x		Speedy Surprise Attack				Extra		BT3			$0.18		Android 17&18
+4x		Create Android						Extra		BT3			$0.68		Android 17&18		Side
+4x		Combination Attack Android 14		Battle		BT3			$0.28		Android 17&18		Side
+3x		Encroaching Terror Android 19		Battle		BT2			$0.21		Android 17&18		Side
+4x		Made to Destroy, Android 19			Battle		BT3			$0.20		Android 17&18		Side
